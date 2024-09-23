@@ -1,2 +1,4 @@
 Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\VYLT_IOT_GATEWAY\VYLT_IOT_GATEWAY.PrjPcb
 Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\VYLT_IOT_GATEWAY\VYLT_IOT_GATEWAY.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\VYLT_IOT_BATTPACK\VYLT_IOT_BATTPACK.PrjPcb
+Record=SubProject|SourceDocument=Schematic.MbsDoc|ProjectPath=..\VYLT_IOT_BATTPACK\VYLT_IOT_BATTPACK.PrjPcb

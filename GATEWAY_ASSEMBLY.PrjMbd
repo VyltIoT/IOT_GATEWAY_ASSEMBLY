@@ -67,7 +67,24 @@ GenerateClassCluster=0
 DocumentUniqueId=a3d5e1c1-879e-4903-a09b-cedad4eb6503
 
 [Document2]
-DocumentPath=..\VYLT_IOT_GATEWAY\VYLT_IOT_GATEWAY.PrjPcb
+DocumentPath=Assembly.MbaDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=31701834-64e5-4ec0-a31a-e5144d580440
+
+[Document3]
+DocumentPath=..\VYLT_IOT_BATTPACK\VYLT_IOT_BATTPACK.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -85,26 +102,7 @@ DocumentUniqueId=
 VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
-ProjectName=VYLT_IOT_GATEWAY.PrjPcb
-VaultURL=
-VaultName=
-
-[Document3]
-DocumentPath=Assembly.MbaDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=31701834-64e5-4ec0-a31a-e5144d580440
+ProjectName=VYLT_IOT_BATTPACK.PrjPcb
 
 [OutputGroup1]
 Name=Netlist Outputs
