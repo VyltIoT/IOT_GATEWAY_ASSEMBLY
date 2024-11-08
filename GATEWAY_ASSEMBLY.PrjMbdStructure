@@ -4,3 +4,5 @@ Record=DiagramHierarchy|SourceDocument=Schematic.MbsDoc|Kind=Multi-board Schemat
 Record=SubProject|SourceDocument=Schematic.MbsDoc|ProjectPath=..\VYLT_IOT_BATTPACK\VYLT_IOT_BATTPACK.PrjPcb
 Record=DiagramHierarchy|SourceDocument=Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\VYLT_IOT_CCM\VYLT_IOT_CCM.PrjPcb
 Record=SubProject|SourceDocument=Schematic.MbsDoc|ProjectPath=..\VYLT_IOT_CCM\VYLT_IOT_CCM.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\VYLT_IOT_HAT_DEMO\VYLT_IOT_HAT_DEMO.PrjPcb
+Record=SubProject|SourceDocument=Schematic.MbsDoc|ProjectPath=..\VYLT_IOT_HAT_DEMO\VYLT_IOT_HAT_DEMO.PrjPcb
