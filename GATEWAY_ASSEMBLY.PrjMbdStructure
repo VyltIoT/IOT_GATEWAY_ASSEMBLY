@@ -1,8 +1,8 @@
 Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\VYLT_IOT_GATEWAY\VYLT_IOT_GATEWAY.PrjPcb
 Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\VYLT_IOT_GATEWAY\VYLT_IOT_GATEWAY.PrjPcb
-Record=DiagramHierarchy|SourceDocument=Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\VYLT_IOT_BATTPACK\VYLT_IOT_BATTPACK.PrjPcb
-Record=SubProject|SourceDocument=Schematic.MbsDoc|ProjectPath=..\VYLT_IOT_BATTPACK\VYLT_IOT_BATTPACK.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\SCOM_BATTPACK\SCOM_BATTPACK.PrjPcb
+Record=SubProject|SourceDocument=Schematic.MbsDoc|ProjectPath=..\SCOM_BATTPACK\SCOM_BATTPACK.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\SCOM_SENSOR_HAT\SCOM_SENSOR_HAT.PrjPcb
+Record=SubProject|SourceDocument=Schematic.MbsDoc|ProjectPath=..\SCOM_SENSOR_HAT\SCOM_SENSOR_HAT.PrjPcb
 Record=DiagramHierarchy|SourceDocument=Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\VYLT_IOT_CCM\VYLT_IOT_CCM.PrjPcb
 Record=SubProject|SourceDocument=Schematic.MbsDoc|ProjectPath=..\VYLT_IOT_CCM\VYLT_IOT_CCM.PrjPcb
-Record=DiagramHierarchy|SourceDocument=Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\VYLT_IOT_HAT_DEMO\VYLT_IOT_HAT_DEMO.PrjPcb
-Record=SubProject|SourceDocument=Schematic.MbsDoc|ProjectPath=..\VYLT_IOT_HAT_DEMO\VYLT_IOT_HAT_DEMO.PrjPcb
