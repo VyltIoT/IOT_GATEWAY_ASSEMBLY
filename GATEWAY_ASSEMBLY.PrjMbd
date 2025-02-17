@@ -126,6 +126,8 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=SCOM_SENSOR_HAT.PrjPcb
+VaultURL=
+VaultName=
 
 [Document5]
 DocumentPath=..\SCOM_BATTPACK\SCOM_BATTPACK.PrjPcb
@@ -147,6 +149,8 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=SCOM_BATTPACK.PrjPcb
+VaultURL=
+VaultName=
 
 [OutputGroup1]
 Name=Netlist Outputs
