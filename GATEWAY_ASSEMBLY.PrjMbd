@@ -149,8 +149,6 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=SCOM_BATTPACK.PrjPcb
-VaultURL=
-VaultName=
 
 [OutputGroup1]
 Name=Netlist Outputs
